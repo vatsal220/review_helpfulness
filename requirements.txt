@@ -1,0 +1,8 @@
+pandas
+numpy
+pickle
+flask
+string
+nltk
+re
+
