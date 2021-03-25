@@ -7,6 +7,21 @@ __pycache__/
 *.so
 
 # Distribution / packaging
+.idea
+.ipynb_checkpoints
+/ipynb_checkpoints/.DS_Store
+/utils/.ipynb_checkpoints
+.DS_Store
+__pycache__
+/ipynb_checkpoints/.ipynb_checkpoints
+/utils/__pycache__
+.env.db
+config.yml
+config.yaml
+.env
+/__pycache__
+ipynb_checkpoints
+
 .Python
 build/
 develop-eggs/
